@@ -1,4 +1,3 @@
-```markdown
 # Análise de Saldos Bancários 📊
 
 Este projeto realiza uma análise exploratória inicial em um conjunto de dados contendo informações de contas bancárias e seus respectivos saldos de uma instituição financeira.
@@ -32,7 +31,7 @@ O arquivo de entrada utilizado é o `contas_saldos.csv`, que possui a seguinte e
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-seu-repositorio.git
+git clone https://github.com/okamA3/nome-do-seu-repositorio.git
 ```
 
 2. Certifique-se de ter o arquivo `contas_saldos.csv` no diretório raiz ou ajuste o caminho da leitura no script.
@@ -55,5 +54,5 @@ print(dados_contas.describe())
 - [ ] Identificar possíveis *outliers* (saldos excessivamente discrepantes).
 
 ---
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) 😊
+Desenvolvido por [okamA3](https://github.com/okamA3) 😊
 ```
